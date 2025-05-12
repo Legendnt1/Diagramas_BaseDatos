@@ -4,8 +4,8 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -113.9563,
-    "scrollLeft": -78,
+    "scrollTop": -80.9563,
+    "scrollLeft": -386,
     "zoomLevel": 0.85,
     "show": 431,
     "database": 4,
@@ -2306,7 +2306,7 @@
       "spudqVe10W3A2i9Q_oZZq": {
         "id": "spudqVe10W3A2i9Q_oZZq",
         "tableId": "TV3SUFQWCFU2BC13kUKLI",
-        "name": "tipo",
+        "name": "monto",
         "comment": "",
         "dataType": "",
         "default": "",
@@ -2319,7 +2319,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1746660720542,
+          "updateAt": 1747018457141,
           "createAt": 1746660718564
         }
       },
