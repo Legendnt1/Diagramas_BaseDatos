@@ -217,6 +217,7 @@ INSERT INTO evaluacion_carrera (id_evaluacion, id_carrera, comentario, calificac
 INSERT INTO evaluacion_carrera (id_evaluacion, id_carrera, comentario, calificacion_estudiante) VALUES (17, 9, 'Se recomienda revisar los fundamentos teóricos.', 7.35);
 INSERT INTO evaluacion_carrera (id_evaluacion, id_carrera, comentario, calificacion_estudiante) VALUES (18, 3, 'Lograste una buena comprensión general.', 16.93);
 INSERT INTO evaluacion_carrera (id_evaluacion, id_carrera, comentario, calificacion_estudiante) VALUES (19, 1, 'Hubo errores importantes que deben corregirse.', 12.05);
+INSERT INTO evaluacion_carrera (id_evaluacion, id_carrera, comentario, calificacion_estudiante) VALUES (20, 10, 'Desempeño aceptable con oportunidad de mejora.', 13.50);
 
 -- Calificación del desempeño de las prácticas
 INSERT INTO calificacion_desempenio (id_calificacion, id_estudiante, id_puesto, puntaje, comentario, cumplimiento, estado_aprobatorio) VALUES (1, 11, 11, 14.62, 'Excelente desempeño, superó ampliamente las expectativas.', 'Alto', 1);
@@ -370,7 +371,7 @@ INSERT INTO respuesta_estudiante (id_respuesta, id_pregunta, id_estudiante, cont
 INSERT INTO respuesta_estudiante (id_respuesta, id_pregunta, id_estudiante, contenido_respuesta, estado_aprobatorio) VALUES (26, 26, 10, 'C', 1);
 INSERT INTO respuesta_estudiante (id_respuesta, id_pregunta, id_estudiante, contenido_respuesta, estado_aprobatorio) VALUES (28, 28, 12, 'A', 1);
 INSERT INTO respuesta_estudiante (id_respuesta, id_pregunta, id_estudiante, contenido_respuesta, estado_aprobatorio) VALUES (24, 24, 2, 'B', 1);
-INSERT INTO respuesta_estudiante (id_respuesta, id_pregunta, id_estudiante, contenido_respuesta, estado_aprobatorio) VALUES (14, 14, 2, 'B', 1);
+INSERT INTO respuesta_estudiante (id_respuesta, id_pregunta, id_estudiante, contenido_respuesta, estado_aprobatorio) VALUES (36, 14, 2, 'B', 1);
 INSERT INTO respuesta_estudiante (id_respuesta, id_pregunta, id_estudiante, contenido_respuesta, estado_aprobatorio) VALUES (35, 35, 15, 'A', 0);
 
 
